@@ -14,7 +14,7 @@ Open shared memory:
  
 Put text to memory:
 
- ShareMem.Put("text to ppass")
+ ShareMem.Put("text to pass")
 
  Other application:
 
