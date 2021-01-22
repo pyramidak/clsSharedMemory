@@ -1,7 +1,7 @@
 # clsSharedMemory
 Pass text between your applications.
 
-First application:
+- First application -
 
 Create instance:
 
@@ -15,8 +15,7 @@ Put text to memory:
 
  ShareMem.Put("text to pass")
 
- Other application:
-
+- Other application -
 
 Create instance:
 
