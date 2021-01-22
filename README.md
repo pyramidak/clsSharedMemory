@@ -1,7 +1,6 @@
 # clsSharedMemory
 Pass text between your applications.
 
-
 First application:
 
 Create instance:
